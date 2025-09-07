@@ -1,0 +1,7 @@
+{
+  "name": "ElJosh Ionic App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
